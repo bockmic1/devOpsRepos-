@@ -1,0 +1,26 @@
+{
+  "name": "devopsnpm",
+  "version": "1.0.0",
+  "description": "npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bockmic1/devOpsRepos-.git"
+  },
+  "keywords": [
+    "retoVWL1+"
+  ],
+  "author": "bockmic1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bockmic1/devOpsRepos-/issues"
+  },
+  "homepage": "https://github.com/bockmic1/devOpsRepos-#readme",
+  "dependencies": {
+    "animejs": "^3.2.2",
+    "chart.js": "^4.4.1"
+  }
+}
